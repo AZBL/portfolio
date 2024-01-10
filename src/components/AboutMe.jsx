@@ -17,10 +17,6 @@ const AboutMe = () => {
         career as a Physician Assistant honed valuable skills that will
         crossover to the tech world: strong communication, teamwork, and the
         confidence to tackle challenging problems head-on.
-        {/* I
-        bring these qualities to my career in software engineering, promising to
-        approach each project with the same dedication and integrity that I've
-        applied in healthcare. */}
       </p>
     </div>
   );

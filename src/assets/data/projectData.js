@@ -15,7 +15,7 @@ const projects = [
     disclaimer:
       "While this app was built with security in mind, please remember this is not a real medical practice and personal information should not be uploaded.",
     hostedLink: "https://primecare.vercel.app/",
-    githubLink: "https://github.com/AZBL/capstone",
+    githubLink: "https://github.com/AZBL/primecare-medical-app",
   },
   {
     id: 2,
@@ -55,7 +55,7 @@ const projects = [
     description:
       "This simple app connects to the Art Institute of Chicago API and displays selected paintings as well as information about them. It is built using Vanilla JavaScript and designed with a custom built mosaic layout using CSS Grid.",
     techStack: "JavaScript, CSS",
-    githubLink: "https://github.com/AZBL/art-inst-chic",
+    githubLink: "https://github.com/AZBL/art-inst-chic-gallery",
   },
 ];
 
