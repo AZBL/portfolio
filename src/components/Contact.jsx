@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
+import { faEnvelope, faFilePdf } from "@fortawesome/free-regular-svg-icons";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 const Contact = () => {
@@ -31,7 +31,15 @@ const Contact = () => {
           GitHub
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <div>Resume link</div>
+        <div className="linkContainer">
+          <a
+            href="/resume-portfolio.pdf"
+            download="Alex_Byrd_Leitner_Resume.pdf"
+          >
+            Resume
+            <FontAwesomeIcon icon={faFilePdf} />
+          </a>
+        </div>
       </div>
     </div>
   );
