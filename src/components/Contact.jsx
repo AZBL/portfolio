@@ -34,7 +34,7 @@ const Contact = () => {
         <div className="linkContainer">
           <a
             href="/resume-portfolio.pdf"
-            download="Alex_Byrd_Leitner_Resume.pdf"
+            download="alex_byrd_leitner_resume.pdf"
           >
             Resume
             <FontAwesomeIcon icon={faFilePdf} />
