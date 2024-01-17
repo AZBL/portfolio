@@ -33,7 +33,7 @@ const Contact = () => {
         </a>
         <div className="linkContainer">
           <a
-            href="/resume-portfolio.pdf"
+            href="/alex_byrd_leitner_resume.pdf"
             download="alex_byrd_leitner_resume.pdf"
           >
             Resume
