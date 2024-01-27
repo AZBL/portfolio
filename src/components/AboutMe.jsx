@@ -12,8 +12,8 @@ const AboutMe = () => {
         comprehensive full stack software engineering bootcamp.
       </p>
       <p>
-        When I'm not coding I enjoy cooking various cuisines, being outside, and
-        recently, watching 90's movies.
+        When I'm not coding I enjoy spending time with family, cooking various
+        cuisines, being outside, and recently, watching 90's movies.
       </p>
       <p>
         I'm currently looking for a full time software engineering position so
