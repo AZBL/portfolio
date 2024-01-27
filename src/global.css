@@ -111,6 +111,23 @@ h5 {
   padding: 20px 30px;
 }
 
+.aboutMe p:nth-child(3) {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 600px) {
+  .aboutMe {
+    max-width: 80%;
+  }
+}
+
+@media (min-width: 1100px) {
+  .aboutMe {
+    max-width: 60%;
+  }
+}
+
 /* SKILL SET  */
 .skillSet {
   grid-column: span 12;
