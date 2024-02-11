@@ -3,9 +3,9 @@ const AboutMe = () => {
     <div className="aboutMe">
       <h3>About Me</h3>
       <p>
-        I'm a software engineer with a background in the medical field. I hold a
-        Master's Degree in Medical Science, and prior to transitioning to tech I
-        worked as a physician assistant in the emergency department and urgent
+        I'm a software developer with a background in the medical field. I hold
+        a Master's Degree in Medical Science, and prior to transitioning to tech
+        I worked as a physician assistant in the emergency department and urgent
         care settings. In many ways I've always been a tech geek, but my journey
         into software engineering began a few years ago when I discovered my
         passion for coding. I'm a graduate of Coding Temple where I completed a
